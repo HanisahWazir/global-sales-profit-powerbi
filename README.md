@@ -89,29 +89,7 @@ The page also uses drill-through functionality for detailed analysis.
 - Page Navigation
 - Conditional Formatting
 - Dynamic Titles
-
-## 📷 Dashboard Preview
-
-### Global Sales & Profit Analysis
-
-![Global Sales & Profit Analysis](screenshots/overview.png)
-
-### Product & Market Analysis
-
-![Product & Market Analysis](screenshots/product-market.png)
-
-### Customer Segment Analysis
-
-![Customer Segment Analysis](screenshots/customer-segment.png)
-
-### Discount & Pricing Analysis
-
-![Discount & Pricing Analysis](screenshots/discount-pricing.png)
-
-### Product Details
-
-![Product Details](screenshots/product-details.png)
-
+  
 ## 💡 Key Insights
 
 This dashboard can be used to identify:
